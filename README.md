@@ -1,2 +1,2 @@
 # PI_project
-projext for the subject "Programsko inđenjerstvo" 
+projext for the subject "Programsko inženjerstvo" 
